@@ -42,4 +42,4 @@ git config --global user.email "gaziaupo9014@gmail.com"
 
 ## push the the the latest code to github
 - git branch -M main
-- git push 
+- git push -u origin main
