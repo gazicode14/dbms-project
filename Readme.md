@@ -32,7 +32,7 @@ git config --global user.email "gaziaupo9014@gmail.com"
 
 
 
-# for regular task
+# for regular task start ---->
 
 - git fetch origin
 - git pull origin
